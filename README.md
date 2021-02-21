@@ -1,13 +1,13 @@
 # Exercícios de Programação em C# 💻 
 
-## Programa para cálculos de funções matemáticas e algoritmos, desenvolvidos em C#, console aplication com Programação Orientada a Objeto.
+## Programa para cálculos de funções matemáticas e algoritmos, desenvolvidos em C#, console aplication com programação modular.
 
 ## ESTRUTURA DO PROJETO 
 
 | Diretório/Arquivo                    	| Finalidade       	                                                                                        | 
 |------------------------------	|---------------------------------------------------------------------------------------------------------- |
 | lista.pdf	| Arquivo contendo a lista de exercícios   | 
-| Resolução_de_Problemas_Com_CSharp/Program.cs| Classe principal do programa contendo as funções e método estático main	
+| Resolucao_De_Algoritmos_Com_Funcoes/Program.cs| Classe principal do programa contendo as funções e método estático main	
     	
 
 
