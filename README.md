@@ -8,7 +8,7 @@
 |------------------------------	|---------------------------------------------------------------------------------------------------------- |
 | lista.pdf	| Arquivo contendo a lista de exercícios   | 
 | Resolução_de_Problemas_Com_CSharp/Program.cs| Classe principal do programa contendo as funções e método estático main	
-|          	
+    	
 
 
 ## Ferramentas Utilizadas
